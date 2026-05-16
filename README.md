@@ -1,24 +1,118 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>🔭 Currently working on Agentic AI applications, MCP server integrations, and Full Stack Development  <br>🌱 Learning Advanced AI Workflows, Spring Boot, REST APIs, and Cloud Technologies  <br>🤖 Exploring Multi-Agent Systems, LLM Applications, and AI Automation Solutions  <br>💡 Passionate about building scalable AI-powered and real-world software applications  <br>🤝 Open to collaborating on AI, Web Development, and innovative tech projects  <br>💬 Ask me about Java, Python, FastAPI, Agentic AI, and MCP Servers  <br>⚡ Focused on creating intelligent, user-friendly, and impactful software solutions
+# 💫 About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akram_shaik__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikmastansaheb) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mastan8444&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mastan8444&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mastan8444&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mastan8444&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mastan8444&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently working on Agentic AI applications, MCP server integrations, and Full Stack Development.  
+Learning advanced AI workflows, Spring Boot, REST APIs, and cloud technologies.  
+Interested in Multi-Agent Systems, LLM applications, and AI automation solutions.  
+Passionate about building scalable AI-powered and real-world software applications.  
+Open to collaborating on AI, web development, and innovative technology projects.  
+Experienced with Java, Python, FastAPI, Agentic AI, and MCP Servers.  
+Focused on creating intelligent, user-friendly, and impactful software solutions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mastan8444&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikmastansaheb)
+[![Instagram](https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_akram_shaik__)
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+![Java](https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1E1E?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-1E1E1E?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+---
+
+## Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-1E1E1E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-1E1E1E?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Netlify](https://img.shields.io/badge/Netlify-1E1E1E?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=46E3B7)
+
+---
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![SQLite](https://img.shields.io/badge/SQLite-1E1E1E?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+---
+
+## AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1E1E1E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=013243)
+
+---
+
+## DevOps & Tools
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1E1E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-1E1E1E?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/Jira-1E1E1E?style=for-the-badge&logo=jira&logoColor=0A0FFF)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mastan8444&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=mastan8444&theme=github-dark-blue&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mastan8444&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mastan8444&theme=algolia&no-frame=true&margin-w=8)
+
+---
+
+# 📈 Contribution Graph
+
+[![Shaik Mastan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mastan8444&theme=github-compact)](https://github.com/mastan8444)
+
+---
+
+# 👨‍💻 Featured Areas
+
+- Agentic AI Applications
+- MCP Server Integrations
+- Full Stack Development
+- AI Automation Solutions
+- REST API Development
+- Cloud & Deployment
+- Multi-Agent Systems
+
+---
+
+# 📫 Contact
+
+📧 mastan8957@gmail.com
+
+---
+
+![](https://komarev.com/ghpvc/?username=mastan8444&style=for-the-badge&color=blueviolet)
