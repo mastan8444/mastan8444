@@ -75,6 +75,13 @@ Focused on creating intelligent, user-friendly, and impactful software solutions
 
 ---
 
+# 🚀 Live Projects
+
+## 🎬 Fangs Entertainment Website
+🔗 https://www.fangs.infinityfreeapp.com/
+
+## 🤖 Iris Deployer API
+🔗 https://iris-deploy-mastan.onrender.com/docs
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mastan8444&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
