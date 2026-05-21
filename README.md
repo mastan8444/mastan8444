@@ -98,9 +98,7 @@ Focused on creating intelligent, user-friendly, and impactful software solutions
 
 ---
 
-# 📈 Contribution Graph
 
-[![Shaik Mastan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mastan8444&theme=github-compact)](https://github.com/mastan8444)
 
 ---
 
