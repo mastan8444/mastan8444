@@ -13,7 +13,7 @@ Focused on creating intelligent, user-friendly, and impactful software solutions
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikmastansaheb)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mastanportfolio.vercel.app/)
 ---
 
 # 💻 Tech Stack
