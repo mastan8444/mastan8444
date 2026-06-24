@@ -1,38 +1,17 @@
-# 👋 Hi, I'm Mastan
+#  Hi, I'm Mastan
 
 ## 🚀 AI Engineer | Agentic AI Developer | Full Stack Developer
 
-Passionate about building intelligent AI-powered applications, scalable backend systems, and real-world automation solutions.
-
-- 🤖 Building Agentic AI Applications
-- 🔗 Developing MCP Server Integrations
-- 🧠 Working with LLMs & AI Automation
-- 📚 Implementing RAG (Retrieval-Augmented Generation)
-- ⚙️ Exploring MLOps & AI Deployment
-- 🤝 Designing Multi-Agent Systems
-- 🌐 Full Stack Web Development
-- ☁️ Cloud-Native Application Development
-
----
-
 # 💫 About Me
 
-Currently working on Agentic AI applications, MCP Server integrations, and Full Stack Development.
+Currently working on Agentic AI applications, MCP server integrations, and Full Stack Development.  
+Learning advanced AI workflows, Spring Boot, REST APIs, and cloud technologies.  
+Interested in Multi-Agent Systems, LLM applications, and AI automation solutions.  
+Passionate about building scalable AI-powered and real-world software applications.  
+Open to collaborating on AI, web development, and innovative technology projects.  
+Experienced with Java, Python, FastAPI, Agentic AI, and MCP Servers.  
+Focused on creating intelligent, user-friendly, and impactful software solutions.
 
-Learning advanced AI workflows, MLOps, RAG architectures, Spring Boot, REST APIs, and cloud technologies.
-
-Interested in:
-
-- Agentic AI Systems
-- Multi-Agent Architectures
-- MCP Protocol & Tool Integrations
-- LLM Applications
-- AI Automation Solutions
-- RAG Pipelines
-- MLOps & Deployment
-- Backend Engineering
-
-Open to collaborating on AI, Full Stack Development, and innovative technology projects.
 
 ---
 
