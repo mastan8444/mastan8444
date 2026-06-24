@@ -1,6 +1,6 @@
-#  Hi, I'm Mastan
+#  Hi, I am Shaik Mastan Saheb
 
-## 🚀 AI Engineer | Agentic AI Developer | Full Stack Developer
+##  AI Engineer | Agentic AI Developer | Full Stack Developer
 
 # 💫 About Me
 
@@ -129,7 +129,6 @@ Full-stack entertainment platform.
 
 ![](https://github-readme-stats.vercel.app/api?username=mastan8444&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=mastan8444&theme=github-dark-blue&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mastan8444&theme=github_dark&hide_border=true&layout=compact)
 
